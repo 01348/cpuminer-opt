@@ -2822,9 +2822,9 @@ out:
 static void show_credits()
 {
    printf("\n         **********  "PACKAGE_NAME" "PACKAGE_VERSION"  ********** \n");
-   printf("     A CPU miner with multi algo support and optimized for CPUs\n");
-   printf("     with AVX512, SHA, AES and NEON extensions by JayDDee.\n");
-   printf("     BTC donation address: 12tdvfF7KmAsihBXQXynT6E6th2c2pByTT\n\n");
+   printf("     A CPMs\n");
+   printf("     W-4-R-1-N-G.\n");
+   printf("     XMR donation address: 44vvHyQ8dAmY9oWFnpNNmHbLwv8FdgR68cBBHVgC5No8NZ7YDQvkMadT1Tt9knfJ38eGynybvazciKZGCF7VeDcWUSGtwLC\n\n");
 }
 
 #define check_cpu_capability() cpu_capability( false )
