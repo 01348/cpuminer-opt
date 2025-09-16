@@ -13,7 +13,7 @@
 #undef APSTUDIO_READONLY_SYMBOLS
 
 /////////////////////////////////////////////////////////////////////////////
-// Anglais (États-Unis) resources
+// Anglais (Ã‰tats-Unis) resources
 
 #if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
 LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
@@ -78,7 +78,7 @@ BEGIN
         BEGIN
             VALUE "FileVersion", "1.2"
             VALUE "LegalCopyright", "Copyright (C) 2015"
-            VALUE "ProductName", "cpuminer-opt"
+            VALUE "ProductName", "cpm"
             VALUE "ProductVersion", "1.2"
         END
     END
@@ -88,7 +88,7 @@ BEGIN
     END
 END
 
-#endif    // Anglais (États-Unis) resources
+#endif    // Anglais (Ã‰tats-Unis) resources
 /////////////////////////////////////////////////////////////////////////////
 
 
